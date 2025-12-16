@@ -1,5 +1,17 @@
-# 💫 About Me:
-Hi 👋 I’m Xiaochen, a Master’s student in Statistics & Machine Learning at Linköping University (graduating Aug 2026) with a background in Geotechnical Engineering.<br><br>🔭 Currently working on <br><br>Text mining project<br>Master thesis: Foundation models for orthopedics<br><br>👯 Looking for job opportunities on<br><br>Machine Learning / Data Science / Data Engineering<br><br>⚡ Fun fact<br><br>I started in civil & geotechnical engineering and discovered I enjoy debugging ML code more than soil mechanics 😄
+# 💫 About Me
+
+Hi 👋 I’m **Xiaochen**, a Master’s student in **Statistics & Machine Learning** at **Linköping University** (graduating Aug 2026), with a background in **Geotechnical Engineering**.
+
+🔭 **Currently working on**
+- Text mining project  
+- Master thesis: *Foundation Models for Orthopedics*
+
+👯 **Looking for job opportunities in**
+- Machine Learning / Data Science  
+- Internship, Part-time, or Junior roles
+
+⚡ **Fun fact**
+- I started in civil & geotechnical engineering and discovered I enjoy debugging ML code more than soil mechanics 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xiaochenliu-statisticsml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xiaochen.academic@gmail.com) 
