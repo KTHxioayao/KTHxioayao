@@ -3,7 +3,6 @@
 Hi 👋 I’m **Xiaochen**, a Master’s student in **Statistics & Machine Learning** at **Linköping University** (graduating Aug 2026), with a background in **Geotechnical Engineering**.
 
 🔭 **Currently working on**
-- Text mining project  
 - Master thesis: *Foundation Models for Orthopedics*
 
 👯 **Looking for job opportunities in**
